@@ -8,11 +8,36 @@
 <supported_majors>6</supported_majors>
 <default_major>6</default_major>
 <project_status>published</project_status>
-<link>http://drupal.cocomore.com/project/drupal</link>
+<link>https://github.com/mkalkbrenner/6</link>
   <terms>
    <term><name>Project types</name><value>Drupal Distributions</value></term>
   </terms>
 <releases>
+ <release>
+  <name>Modified D6 6.26.20</name>
+  <version>6.26.20</version>
+  <version_major>6</version_major>
+  <version_minor>26</version_minor>
+  <version_patch>20</version_patch>
+  <status>published</status>
+  <release_link>https://raw.github.com/mkalkbrenner/6/master/CHANGELOG.Modified_D6.txt</release_link>
+  <download_link>https://github.com/downloads/mkalkbrenner/6/md6-6.26.20.tar.gz</download_link>
+  <date>1336043416</date>
+  <mdhash>2b4461e4dd0e80f8fec816977105b8db</mdhash>
+  <filesize>1290401</filesize>
+  <files>
+   <file>
+    <url>http://drupal.cocomore.com/sites/default/files/cdc-6.26.19.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>2b4461e4dd0e80f8fec816977105b8db</md5>
+    <size>1290401</size>
+    <filedate>1342525855</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
  <release>
   <name>CDC 6.26.19</name>
   <version>6.26.19</version>
