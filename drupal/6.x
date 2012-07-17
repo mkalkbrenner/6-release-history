@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project xmlns:dc="http://purl.org/dc/elements/1.1/">
-<title>Cocomore Drupal Core (CDC)</title>
+<title>Modified D6</title>
 <short_name>drupal</short_name>
 <dc:creator>admin</dc:creator>
 <api_version>6.x</api_version>
